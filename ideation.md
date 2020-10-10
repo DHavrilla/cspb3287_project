@@ -1,4 +1,4 @@
-cspb3287 Project Ideation
+CSPB3287 Project Ideation
 
 David Havrilla
 
@@ -24,7 +24,10 @@ From the database project itself, my goal is to better understand database manag
 
 Demonstration
 
+I plan to demonstrate my database and what I have learned through a private video presentation that can be uploaded to a website, such as YouTube, and accessed via provided link.
+
 References:
 
 (1) https://www.lovelycoding.org/2013/11/top-18-database-projects-ideas-for.engineering-bca-mca-btech-bsc.html
+
 (2) https://www.redcrossblood.org/donate-blood/how-to-donate/types-of-blood-donations/blood-components.html
